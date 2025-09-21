@@ -1,0 +1,150 @@
+Total 119 Questions
+✅ 1. Array Questions 🧮📦
+🔁 Reverse an array in-place
+➕ Kadane’s Algorithm (Maximum Subarray Sum)
+📊 Find the second largest element
+🔄 Move all zeros to end
+🧮 Count the frequency of each element
+🌐 Left rotate the array by D places
+📍 Check if array is sorted
+🔍 Find missing number in an array of 1 to N
+🔀 Merge two sorted arrays
+🧩 Find duplicate in array (Floyd’s cycle method)
+
+✅ 2. String Questions ✍️🔡
+🔁 Reverse a string
+🔤 Check for palindrome
+🔄 Remove all duplicates
+🧠 Longest substring without repeating characters
+🔢 Count vowels and consonants
+🧩 Anagram check
+🔃 Implement strstr() function (substring search)
+📊 Frequency of characters
+🧪 Check if two strings are isomorphic
+🔠 Convert to title case
+
+✅ 3. Linked List 🔗
+➕ Insert a node at beginning, middle, and end
+❌ Delete a node
+🔁 Reverse a linked list
+🔍 Find middle of linked list
+🔗 Detect loop in linked list
+🚫 Remove loop from linked list
+🧮 Count nodes in circular linked list
+➕ Add two numbers represented by linked list
+🔁 Merge two sorted linked lists
+🔄 Check if linked list is palindrome
+
+✅ 4. Stack & Queue 📚🧺
+Stack:
+🧱 Implement stack using array
+📚 Infix to postfix conversion
+🧩 Balanced parentheses
+🧠 Evaluate postfix expression
+🔁 Reverse a stack using recursion
+
+Queue:
+📥 Implement queue using array
+🔃 Circular queue implementation
+🔁 Reverse a queue
+👯 Interleave first half of the queue with second half
+🧠 Implement stack using queue
+
+✅ 5. Searching & Sorting 🔍📈
+🔍 Linear Search
+🧠 Binary Search
+📊 Bubble Sort
+🪜 Selection Sort
+🔁 Insertion Sort
+💥 Quick Sort
+🌊 Merge Sort
+🔢 Count Sort
+🧩 Find pair with given sum
+⏲ Find element in rotated sorted array
+
+✅ 6. Recursion & Backtracking ♻️🧠
+♾ Factorial using recursion
+🔁 Fibonacci series using recursion
+🔄 Tower of Hanoi
+⏫ Power of a number
+🧩 Print all subsets of a string
+🛤 Print all permutations of a string
+🧭 N-Queens Problem
+🧱 Rat in a Maze
+📦 Subset sum problem
+💡 Generate balanced parentheses
+
+✅ 7. Tree & Binary Tree 🌳🧬
+🔧 Build a binary tree from inorder and preorder
+🧠 Inorder / Preorder / Postorder traversal
+🔍 Search in BST
+➕ Insert in BST
+📊 Find height of tree
+📏 Diameter of tree
+🧩 Check if tree is balanced
+🧬 Lowest common ancestor (LCA)
+🔄 Mirror a binary tree
+📶 Level order traversal
+
+✅ 8. Graph (Basic) 🌐📡
+🌉 Represent graph (adjacency list/matrix)
+🚶 BFS traversal
+🚶 DFS traversal
+🔄 Detect cycle in undirected graph
+🔁 Detect cycle in directed graph
+🔍 Topological sort
+🔗 Union-Find Algorithm
+🧭 Dijkstra’s Algorithm
+🌊 Flood Fill Algorithm
+🌐 Number of connected components
+
+✅ 9. Greedy Algorithms 💰⚡
+🪙 Coin Change (minimum coins)
+🎒 Fractional Knapsack
+📅 Activity Selection
+🧱 Job Sequencing
+📏 Minimum number of platforms
+🌐 Huffman Coding
+🔄 Gas Station problem
+⛽ Jump Game
+📶 Connect ropes to minimize cost
+🧮 Largest number that can be formed
+
+✅ 10. Dynamic Programming (Easy to Medium) 📈🧠
+📊 Fibonacci using DP
+💸 0/1 Knapsack
+🔀 Longest Common Subsequence (LCS)
+🧩 Longest Increasing Subsequence
+🧠 Edit Distance
+📦 Subset Sum Problem
+⬆ Matrix Chain Multiplication
+📚 Minimum Steps to One
+🌐 Unique Paths in Grid
+🧱 Count Binary Strings without consecutive 1s
+
+✅ 11. Two Pointer Technique Questions 👯‍♂️➡️⬅️
+➕ Two Sum in a sorted array
+💞 Check if a pair exists with a given sum
+📉 Container with most water
+🔁 Remove duplicates from sorted array
+👩‍❤️‍👨 Check if string is palindrome (using two pointers)
+🔄 Move all zeroes to end (in-place)
+🔍 Find triplet with given sum (3 sum problem)
+🔁 Sort array of 0s, 1s, and 2s (Dutch National Flag)
+🚶‍♂️🚶‍♀️ Find intersection of two sorted arrays
+🔍 Find minimum difference between elements of two arrays
+
+✅ 12. Popular Algorithm-Based Questions ⚙️🧠
+Sliding Window Algorithm 🪟
+📊 Maximum sum subarray of size K
+🔁 Longest substring with K distinct characters
+🔢 Count of anagrams in a string
+🧮 Minimum window substring
+📈 Longest subarray with sum ≤ K
+
+Binary Search Variants 🔍
+🔍 First and last occurrence of element in sorted array
+📊 Count occurrences of a number in sorted array
+⏫ Find square root of a number
+⬆️ Peak element in array
+🎯 Search in a rotated sorted array

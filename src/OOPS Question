@@ -1,0 +1,41 @@
+✅ OOPs Questions in Java ☕🧩
+🔹 Theory Questions 📘💡
+
+1️⃣ 🌟 Principles of OOPs → Encapsulation, Inheritance, Polymorphism, Abstraction
+2️⃣ 🏛 Class vs Object
+3️⃣ 📑 Abstract class vs Interface
+4️⃣ 🔐 Encapsulation with real-life example
+5️⃣ 👨‍👩‍👦 Inheritance → Types in Java
+6️⃣ 🎭 Polymorphism → Compile-time vs Runtime
+7️⃣ 🎭 Abstraction → How to achieve in Java
+8️⃣ 🆚 Method Overloading vs Method Overriding
+9️⃣ 🏗 Constructor vs Method
+🔟 🌀 Constructor Overloading (allowed in Java?)
+1️⃣1️⃣ 🧑‍🤝‍🧑 super keyword usage
+1️⃣2️⃣ 👆 this keyword usage
+1️⃣3️⃣ ⚡ final, finally, finalize difference
+1️⃣4️⃣ 🔒 Access Modifiers → public, private, protected, default
+1️⃣5️⃣ 🔗 IS-A vs HAS-A relationship
+1️⃣6️⃣ ⚙️ Static vs Non-static members
+1️⃣7️⃣ 🧩 Inner class in Java
+1️⃣8️⃣ 🚫 Multiple inheritance → Why Java doesn’t support it?
+1️⃣9️⃣ 🏛 Abstract vs Concrete class
+2️⃣0️⃣ 🔍 == vs equals() difference
+
+🔹 Coding Questions 💻📝
+
+1️⃣ 🔐 Encapsulation → Student class with private fields + getters/setters
+2️⃣ 👨‍👩‍👦 Inheritance → Person (parent), Employee (child)
+3️⃣ ➕ Method Overloading → add(int, int) & add(double, double)
+4️⃣ 🔄 Method Overriding → Parent vs Child display()
+5️⃣ 🎭 Abstraction → Abstract class Shape, subclasses Circle, Rectangle
+6️⃣ 📑 Interface → Animal interface (sound()), classes Dog, Cat implement
+7️⃣ ⬆️ super keyword → Call parent constructor & method
+8️⃣ 👆 this keyword → Constructor chaining using this()
+9️⃣ 🎭 Polymorphism → Upcasting child object & calling overridden method
+🔟 ⚡ final keyword → Final variable, final method, final class
+1️⃣1️⃣ 🏗 Constructor Overloading → Employee class with multiple constructors
+1️⃣2️⃣ 🔗 HAS-A Relationship → Car class contains Engine object
+1️⃣3️⃣ 🆚 == vs equals() → Compare two Strings
+1️⃣4️⃣ ⚙️ Static Members → Count number of objects created
+1️⃣5️⃣ 🧩 Inner Class → Outer class with nested Inner class
