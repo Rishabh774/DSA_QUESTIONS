@@ -1,4 +1,4 @@
-Total 119 Questions
+Total 151 Questions
 ✅ 1. Array Questions 🧮📦
 🔁 Reverse an array in-place
 ➕ Kadane’s Algorithm (Maximum Subarray Sum)
@@ -23,7 +23,55 @@ Total 119 Questions
 🧪 Check if two strings are isomorphic
 🔠 Convert to title case
 
-✅ 3. Linked List 🔗
+✅ 3. 2D Array / Matrix Questions 🟦📐
+🔁 Transpose of a matrix
+➕ Spiral order traversal
+📊 Rotate matrix by 90°
+🧩 Search element in a row-wise and column-wise sorted matrix
+🔄 Print boundary elements of a matrix
+💥 Find maximum sum submatrix of size K×K
+🧠 Rotate matrix in place (without extra space)
+📍 Diagonal sum of matrix
+🚶‍♂️ Count islands in a binary matrix
+🧮 Set matrix zeroes (matrix modification problem)
+
+✅ 4. HashMap / Hashing Questions 🗝️📦
+🔍 Count frequency of elements
+🧩 Check for subarray with given sum (using hashing)
+💡 Longest consecutive sequence
+🧠 Two sum problem (unsorted array, hashmap solution)
+🚶 Find duplicates in an array
+📊 Intersection of two arrays
+🔗 Group anagrams together
+➕ Pair sum in an array
+🌐 First non-repeating character in a string
+🧮 Subarray with 0 sum
+
+✅ 5. Bit Manipulation Questions ⚡🔢
+💥 Check if a number is power of 2
+🔁 Count set bits in a number
+🧩 Find single element in an array where every other element occurs twice
+🔄 Swap two numbers without using a temporary variable
+📊 XOR of all numbers from 1 to N
+🧠 Find two non-repeating elements in an array
+🔍 Check if the Kth bit is set
+➕ Turn off the rightmost set bit
+🌐 Count total set bits in all numbers from 1 to N
+🧮 Subset generation using bits
+
+✅ 6. Two Pointer Technique Questions 👯‍♂️➡️⬅️
+➕ Two Sum in a sorted array
+💞 Check if a pair exists with a given sum
+📉 Container with most water
+🔁 Remove duplicates from sorted array
+👩‍❤️‍👨 Check if string is palindrome (using two pointers)
+🔄 Move all zeroes to end (in-place)
+🔍 Find triplet with given sum (3 sum problem)
+🔁 Sort array of 0s, 1s, and 2s (Dutch National Flag)
+🚶‍♂️🚶‍♀️ Find intersection of two sorted arrays
+🔍 Find minimum difference between elements of two arrays
+
+✅ 7. Linked List 🔗
 ➕ Insert a node at beginning, middle, and end
 ❌ Delete a node
 🔁 Reverse a linked list
@@ -35,7 +83,7 @@ Total 119 Questions
 🔁 Merge two sorted linked lists
 🔄 Check if linked list is palindrome
 
-✅ 4. Stack & Queue 📚🧺
+✅ 8. Stack & Queue 📚🧺
 Stack:
 🧱 Implement stack using array
 📚 Infix to postfix conversion
@@ -50,7 +98,7 @@ Queue:
 👯 Interleave first half of the queue with second half
 🧠 Implement stack using queue
 
-✅ 5. Searching & Sorting 🔍📈
+✅ 9. Searching & Sorting 🔍📈
 🔍 Linear Search
 🧠 Binary Search
 📊 Bubble Sort
@@ -62,7 +110,14 @@ Queue:
 🧩 Find pair with given sum
 ⏲ Find element in rotated sorted array
 
-✅ 6. Recursion & Backtracking ♻️🧠
+Binary Search Variants 🔍
+🔍 First and last occurrence of element in sorted array
+📊 Count occurrences of a number in sorted array
+⏫ Find square root of a number
+⬆️ Peak element in array
+🎯 Search in a rotated sorted array
+
+✅ 10. Recursion & Backtracking ♻️🧠
 ♾ Factorial using recursion
 🔁 Fibonacci series using recursion
 🔄 Tower of Hanoi
@@ -74,7 +129,7 @@ Queue:
 📦 Subset sum problem
 💡 Generate balanced parentheses
 
-✅ 7. Tree & Binary Tree 🌳🧬
+✅ 11. Tree & Binary Tree 🌳🧬
 🔧 Build a binary tree from inorder and preorder
 🧠 Inorder / Preorder / Postorder traversal
 🔍 Search in BST
@@ -86,7 +141,7 @@ Queue:
 🔄 Mirror a binary tree
 📶 Level order traversal
 
-✅ 8. Graph (Basic) 🌐📡
+✅ 12. Graph (Basic) 🌐📡
 🌉 Represent graph (adjacency list/matrix)
 🚶 BFS traversal
 🚶 DFS traversal
@@ -98,7 +153,7 @@ Queue:
 🌊 Flood Fill Algorithm
 🌐 Number of connected components
 
-✅ 9. Greedy Algorithms 💰⚡
+✅ 13. Greedy Algorithms 💰⚡
 🪙 Coin Change (minimum coins)
 🎒 Fractional Knapsack
 📅 Activity Selection
@@ -110,7 +165,7 @@ Queue:
 📶 Connect ropes to minimize cost
 🧮 Largest number that can be formed
 
-✅ 10. Dynamic Programming (Easy to Medium) 📈🧠
+✅ 13. Dynamic Programming (Easy to Medium) 📈🧠
 📊 Fibonacci using DP
 💸 0/1 Knapsack
 🔀 Longest Common Subsequence (LCS)
@@ -121,18 +176,6 @@ Queue:
 📚 Minimum Steps to One
 🌐 Unique Paths in Grid
 🧱 Count Binary Strings without consecutive 1s
-
-✅ 11. Two Pointer Technique Questions 👯‍♂️➡️⬅️
-➕ Two Sum in a sorted array
-💞 Check if a pair exists with a given sum
-📉 Container with most water
-🔁 Remove duplicates from sorted array
-👩‍❤️‍👨 Check if string is palindrome (using two pointers)
-🔄 Move all zeroes to end (in-place)
-🔍 Find triplet with given sum (3 sum problem)
-🔁 Sort array of 0s, 1s, and 2s (Dutch National Flag)
-🚶‍♂️🚶‍♀️ Find intersection of two sorted arrays
-🔍 Find minimum difference between elements of two arrays
 
 ✅ 12. Popular Algorithm-Based Questions ⚙️🧠
 Sliding Window Algorithm 🪟
