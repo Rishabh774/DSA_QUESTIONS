@@ -27,5 +27,7 @@ public class Ques5CountVowelsConsonant {
         String  str = sc.nextLine();
        count(str);
 
+
+
     }
 }

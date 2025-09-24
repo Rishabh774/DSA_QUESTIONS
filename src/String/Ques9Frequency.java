@@ -14,6 +14,7 @@ public class Ques9Frequency {
                  map.put(str.charAt(i),1);
              }
          }
+         System.out.println(map);
      }
 
     public static void main(String[] args) {
