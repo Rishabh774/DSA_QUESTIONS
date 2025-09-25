@@ -1,4 +1,4 @@
-Total 151 Questions
+Total 119 Questions
 
 Array String hashmap Two pointers Linked list Stack Queue Recursion Backtracking
 2D array bit manipulation sorting searching
@@ -188,9 +188,3 @@ Sliding Window Algorithm 🪟
 🧮 Minimum window substring
 📈 Longest subarray with sum ≤ K
 
-Binary Search Variants 🔍
-🔍 First and last occurrence of element in sorted array
-📊 Count occurrences of a number in sorted array
-⏫ Find square root of a number
-⬆️ Peak element in array
-🎯 Search in a rotated sorted array
